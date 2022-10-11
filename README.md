@@ -1,2 +1,2 @@
 # Kernelization
-In this repository I worked on three step kernelization of Cluster Editing problem. 
+In this repository I worked on three steps kernelization of Cluster Editing problem. 
